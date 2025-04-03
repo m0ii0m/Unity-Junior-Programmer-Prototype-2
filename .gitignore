@@ -50,7 +50,6 @@ crashlytics-build.properties
 *.apk
 *.aab
 *.app
-*.unitypackage
 ~UnityDirMonSyncFile~*
 **/Assets/AddressableAssetsData/*/*.bin*
 **/assets/addressableassetsdata/*/*.bin*
